@@ -1,0 +1,54 @@
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.exe.config
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.pdb
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste grilă Star Wars.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.adauga_intrebare.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_intrebari.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.Form1.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.intrebari.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.modificare_intrebari.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.Properties.Resources.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste grilă Star Wars.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste grilă Star Wars.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.pdb
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.adauga_test.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_teste.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.modificare_teste.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste_standard.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.user.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.creare_cont.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.Log_in.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.rezultate.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste_random.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.rezultate_admin.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_utilizatori.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_grilă_Star_Wars.manage_users.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\bin\Debug\Teste griă Star Wars.exe.config
+C:\Users\DELL\Desktop\Teste grilă Star Wars\bin\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste grilă Star Wars\bin\Debug\Teste griă Star Wars.pdb
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste grilă Star Wars.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.adauga_intrebare.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.adauga_test.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_intrebari.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_teste.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.afisare_utilizatori.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.creare_cont.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.Form1.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.intrebari.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.Log_in.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.manage_users.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.modificare_intrebari.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.modificare_teste.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_griă_Star_Wars.Properties.Resources.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.rezultate.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.rezultate_admin.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste_random.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.teste_standard.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste_grilă_Star_Wars.user.resources
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste grilă Star Wars.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste grilă Star Wars.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste grilă Star Wars\obj\Debug\Teste griă Star Wars.pdb

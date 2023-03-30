@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF74C48D-7D47-48C0-845B-FDA83FCBF1D2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Teste_griă_Star_Wars</RootNamespace>
+    <AssemblyName>Teste griă Star Wars</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adauga_intrebare.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adauga_intrebare.Designer.cs">
+      <DependentUpon>adauga_intrebare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adauga_test.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adauga_test.designer.cs">
+      <DependentUpon>adauga_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afisare_intrebari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="afisare_intrebari.Designer.cs">
+      <DependentUpon>afisare_intrebari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afisare_teste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="afisare_teste.designer.cs">
+      <DependentUpon>afisare_teste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="afisare_utilizatori.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="afisare_utilizatori.Designer.cs">
+      <DependentUpon>afisare_utilizatori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="creare_cont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creare_cont.Designer.cs">
+      <DependentUpon>creare_cont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="intrebare.cs" />
+    <Compile Include="intrebari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="intrebari.Designer.cs">
+      <DependentUpon>intrebari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_in.Designer.cs">
+      <DependentUpon>Log_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manage_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_users.Designer.cs">
+      <DependentUpon>manage_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificare_intrebari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="modificare_intrebari.Designer.cs">
+      <DependentUpon>modificare_intrebari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificare_teste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="modificare_teste.designer.cs">
+      <DependentUpon>modificare_teste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rezultate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezultate.designer.cs">
+      <DependentUpon>rezultate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rezultate_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezultate_admin.Designer.cs">
+      <DependentUpon>rezultate_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teste.Designer.cs">
+      <DependentUpon>teste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teste_random.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teste_random.designer.cs">
+      <DependentUpon>teste_random.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teste_standard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teste_standard.designer.cs">
+      <DependentUpon>teste_standard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adauga_intrebare.resx">
+      <DependentUpon>adauga_intrebare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adauga_test.resx">
+      <DependentUpon>adauga_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afisare_intrebari.resx">
+      <DependentUpon>afisare_intrebari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afisare_teste.resx">
+      <DependentUpon>afisare_teste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afisare_utilizatori.resx">
+      <DependentUpon>afisare_utilizatori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creare_cont.resx">
+      <DependentUpon>creare_cont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="intrebari.resx">
+      <DependentUpon>intrebari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_in.resx">
+      <DependentUpon>Log_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_users.resx">
+      <DependentUpon>manage_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificare_intrebari.resx">
+      <DependentUpon>modificare_intrebari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificare_teste.resx">
+      <DependentUpon>modificare_teste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rezultate.resx">
+      <DependentUpon>rezultate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezultate_admin.resx">
+      <DependentUpon>rezultate_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teste.resx">
+      <DependentUpon>teste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teste_random.resx">
+      <DependentUpon>teste_random.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teste_standard.resx">
+      <DependentUpon>teste_standard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.exe.config
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste griă Star Wars\bin\Debug\Teste griă Star Wars.pdb
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.Form1.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.Properties.Resources.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.exe
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste griă Star Wars.pdb
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.adauga_intrebare.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.afisare_intrebari.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.intrebari.resources
+C:\Users\DELL\Desktop\Teste griă Star Wars\obj\Debug\Teste_griă_Star_Wars.modificare_intrebari.resources
