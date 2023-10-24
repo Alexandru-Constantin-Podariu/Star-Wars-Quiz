@@ -5,5 +5,5 @@ The application allows for taking standard and random tests.
 
 Windows form application developed in C#, through Visual Studio. 
 Database created in Access.
-Language: Romanian
-Documentation provided in Romanian
+Language: Romanian.
+Documentation provided in Romanian.
